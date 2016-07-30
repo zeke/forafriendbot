@@ -8,10 +8,12 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "coffee-script": "^1.10.0",
     "dotenv": "^2.0.0",
     "require": "^2.4.20",
     "sugar": "^1.4.1",
     "twit": "^2.2.4"
+  },
+  "engines": {
+    "node": "6"
   }
 }
